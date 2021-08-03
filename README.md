@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Garg-Nakshatra
+- 👋 Hi, I’m Nakshatra Garg
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning about Machine Learning from academics, books, and MOOCs.
+- 🌱 I’m currently learning about Machine Learning from varied source (Online and Offline)
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me on my email: nakshatragarg11@gmail.com
 
